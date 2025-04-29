@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.hjson</groupId>
             <artifactId>hjson</artifactId>
-            <version>1.1.4</version>
+            <version>3.0.1</version>
         </dependency>
 
         <!-- HTTP client -->
